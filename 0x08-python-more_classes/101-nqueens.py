@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Python3 program to solve N Queen
 # Problem using backtracking
 import sys
